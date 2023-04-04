@@ -6,8 +6,8 @@ width=50px alt = 'git'/>
 width=50px alt = 'JS'/>
 <img src = https://user-images.githubusercontent.com/100615377/229748641-bfbeef51-bc9c-4b85-977e-5a8f66915e91.png
 width=50px alt = "React"/>
-<img src = https://user-images.githubusercontent.com/100615377/229739726-5107ca34-105a-4d8c-a8f3-b28120fda0c9.png
-width=50px/>
+<img src = https://user-images.githubusercontent.com/100615377/229748927-01c1ecb6-ca87-43b8-9436-0d6b6dd1cb80.png
+width=50px alt="Node"/>
 <img src = https://user-images.githubusercontent.com/100615377/229745155-e298a594-9a3f-4246-98eb-2fceb89107f0.png
 width=50px/>
 <img src = https://user-images.githubusercontent.com/100615377/229745155-e298a594-9a3f-4246-98eb-2fceb89107f0.png
