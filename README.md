@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @nickkagame
+👋 Hi, I’m @nickkagame
+
 These are the technologies I know and love - 
+
 <img src = https://user-images.githubusercontent.com/100615377/229739726-5107ca34-105a-4d8c-a8f3-b28120fda0c9.png
 width=50px alt = 'git'/>
 <img src = https://user-images.githubusercontent.com/100615377/229748430-92894298-3d67-44b0-8007-1b1797723c69.png
