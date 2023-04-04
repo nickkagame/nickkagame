@@ -1,4 +1,4 @@
-👋 Hi, I’m @nickkagame
+👋 Hi, I’m Nick
 
 These are the technologies I know and love - 
 
