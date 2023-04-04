@@ -6,6 +6,8 @@ These are the technologies I know and love -
 width=50px alt = 'git'/>
 <img src = https://user-images.githubusercontent.com/100615377/229748430-92894298-3d67-44b0-8007-1b1797723c69.png
 width=50px alt = 'JS'/>
+<img src = https://user-images.githubusercontent.com/100615377/229750563-7288d9b1-4c89-4d20-afcf-d7e6ea77fff9.png
+width=50px alt = 'TypeScript'/>
 <img src = https://user-images.githubusercontent.com/100615377/229748641-bfbeef51-bc9c-4b85-977e-5a8f66915e91.png
 width=50px alt = "React"/>
 <img src = https://user-images.githubusercontent.com/100615377/229748927-01c1ecb6-ca87-43b8-9436-0d6b6dd1cb80.png
