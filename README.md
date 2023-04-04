@@ -1,4 +1,4 @@
-👋 Hi, I’m Nick
+👋 Hi, I’m Nick K Jones
 
 Technologies I know and love - 
 
