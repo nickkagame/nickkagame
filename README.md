@@ -23,6 +23,6 @@ width=50px/>
 <img src = https://user-images.githubusercontent.com/100615377/229747211-56dd045f-d3c1-4fd6-bda3-daf028d7a13b.png
 width=50px alt="postgreSQL"/> <img src = https://user-images.githubusercontent.com/100615377/229747689-488af8c0-34f1-4337-9d6b-149bb1f22652.png width=50px/>
 
-
 My Codewars progress:
+
 <img src = https://www.codewars.com/users/nickkagame/badges/large alt = 'codewars'/>
