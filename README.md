@@ -26,6 +26,3 @@ width=50px alt="postgreSQL"/> <img src = https://user-images.githubusercontent.c
 My Codewars progress:
 
 <img src = https://www.codewars.com/users/nickkagame/badges/large alt = 'codewars'/>
-
-
-NB you won't see all my contributions, as I have been working a lot in forked repos.  I have been coding pretty much everyday!  
